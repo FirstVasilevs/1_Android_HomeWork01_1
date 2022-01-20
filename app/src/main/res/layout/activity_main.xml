@@ -38,30 +38,25 @@
         <Switch
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Switch"
             android:layout_margin="16dp"
-            android:background="#2D7317" />
+            android:background="#2D7317"
+            android:text="Switch" />
 
         <CheckBox
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="CheckBox"
             android:layout_margin="16dp"
-            android:textColor="#C457CB"
-            android:background="#E6D760" />
+            android:background="#E6D760"
+            android:text="CheckBox"
+            android:textColor="#C457CB" />
 
         <ToggleButton
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="16dp"
             android:background="#FF0000"
+            android:textColor="#D1D59A"
             android:textOff="Выкл"
-            android:textOn="Вкл"
-            android:textColor="#D1D59A"/>
-
-
-
-
-
+            android:textOn="Вкл" />
     </LinearLayout>
 </ScrollView>
