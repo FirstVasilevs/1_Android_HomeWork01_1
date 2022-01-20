@@ -83,6 +83,11 @@
             android:background="#D1D59A"
             android:hint="Enter time"
             android:inputType="time" />
+        <CalendarView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#37A5CD"/>
+
 
 
     </LinearLayout>
