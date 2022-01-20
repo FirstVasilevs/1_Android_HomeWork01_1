@@ -12,9 +12,16 @@
         android:orientation="vertical">
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="My first Homework"
+            android:gravity="center"
+            android:textSize="16dp"
+            android:textColor="#FF0000"
+            android:background="#ECDBA7"
+            android:layout_margin="16dp"
+
+
             />
 
     </LinearLayout>
